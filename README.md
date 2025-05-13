@@ -63,7 +63,13 @@ touch /tmp/continue
 > 2. CI环境默认超时限制为6小时（GitHub Actions标准）  
 > 3. 调试结束后自动清理临时文件  
 
+
+
 > **⚠️ Important Notes**  
 > 1. Session credentials are sent via Telegram in plaintext - recommended for private channels only  
 > 2. Default CI timeout is 6 hours (GitHub Actions standard)  
 > 3. Temporary files auto-cleaned after session termination  
+
+
+###  鸣谢
+nobody now
